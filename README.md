@@ -1,1 +1,1 @@
-# api-hotel-python
+# apihotel
