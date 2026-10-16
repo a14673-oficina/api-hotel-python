@@ -11,8 +11,8 @@ Uma API básica desenvolvida em Python para a gestão de um sistema de hotel, pe
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python** (Linguagem principal)
-* **Framework:** *[Ex: Flask / FastAPI / Django Rest Framework]*
-* **Base de Dados:** *[Ex: SQLite / PostgreSQL / MySQL]*
+* **Framework:** *[Ex: Flask]*
+* **Base de Dados:** *[Ex: SQLite/ MySQL]*
 
 ## 📦 Como Executar o Projeto
 
